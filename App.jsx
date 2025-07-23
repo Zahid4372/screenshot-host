@@ -8,8 +8,7 @@ import Recent from './components/Recent';
 function App() {
   return (
     <div className="App">
-     <h1>Hi am </h1>
-    </div>
+hkhk    </div>
   );
 }
 
