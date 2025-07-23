@@ -8,11 +8,7 @@ import Recent from './components/Recent';
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <Hero />
-      <FilterBar />
-      <Featured />
-      <Recent />
+     <h1>Hi am </h1>
     </div>
   );
 }
