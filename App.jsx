@@ -8,7 +8,7 @@ import Recent from './components/Recent';
 function App() {
   return (
     <div>
-hkhk    </div>
+   </div>
   );
 }
 
