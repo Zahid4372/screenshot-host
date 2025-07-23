@@ -7,7 +7,7 @@ import Recent from './components/Recent';
 
 function App() {
   return (
-    <div className="App">
+    <div>
 hkhk    </div>
   );
 }
